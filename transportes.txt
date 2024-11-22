@@ -1,0 +1,8 @@
+Bicicleta
+Tranvía
+Metro
+Caminata
+Trolebús
+Autobús eléctrico
+Patineta
+
