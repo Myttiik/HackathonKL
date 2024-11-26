@@ -6,20 +6,15 @@ Este chatbot generara conciencia sobre que provoca y cuales son las consecuencia
 ## Caracteristicas
 Todo esto implementado en base a comandos como !consejo !especie !problema !consecuencia !energia !residuo !transporte:
 
-- !consejo : consejo sobre como aportar
-- !especie : adjunta una imagen de una especie en peligro de extinción y deja que una ia te diga cual es
-- !noticia : el bot te dira una noticia sobre un problema que agrava el cambio climatico
-- !energía : el bot te explicará una forma de energía sustentable
-- !residuo : dile el nombre de un residuo al bot y deja que este te explique como lo puedes reutilizar o desechar sin dañar al medio ambiente
-- !transporte : deja que el bot elija por ti el medio de transporte amigable con el medio ambiente vas a usar hoy
+- !Consejo : consejo sobre como aportar
+- !Noticia : el bot te dira una noticia sobre un problema que agrava el cambio climatico
+- !Energía : el bot te explicará una forma de energía sustentable
+- !Transporte : deja que el bot elija por ti el medio de transporte amigable con el medio ambiente vas a usar hoy
+- !Pregunta : Pregunta lo que quieras acerca del cambio climático
+- !Pregunta (Especie en peligro de extinción) : Di el nombre de una especie en peligro de extinción y deja que el bot te explique como afecta el cambio climático a esta.
+- !Pregunta (Residuo) 
 
 ## Tecnologías utilizadas
 - Python
 - Discord
-- Google Teachable Machine
-- Keras
-- Pyllow
-- Numpy
-- Tensorflow
-
-
+- OpenAI
